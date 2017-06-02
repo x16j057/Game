@@ -12,7 +12,7 @@ namespace Game
 {
     public partial class Form1 : Form
     {
-        int speed = 10;
+        int speed = 30;
         int movex;
         int movey;
         public Form1()
